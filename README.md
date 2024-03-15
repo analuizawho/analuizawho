@@ -1,16 +1,25 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=edc92d&height=120&section=header"/>
 
-<!--
-**analuizawho/analuizawho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=edc92d&size=35&center=true&vCenter=true&width=1000&lines=Hi!!+I'm+Ana+Luiza;Make+yourself+at+home!+🌞+:%29)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+## 🌟 About Me <img align="right" src="https://github.com/analuizawho/analuizawho/blob/main/assets/computer.gif"/>
+ - 🤓 I'm 20 years old 
+ - 📍 From Belo Horizonte - MG, Brazil
+ - 🎓 Studying Analysis and System Development
+ - 📚 Learning about SpringBoot
+ - 🕵️‍♀️ Looking for jobs of Back-End Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 Skills
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=OpenJDK&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-111?style=for-the-badge&logo=Spring&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=white)
+![GIT](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=white)
+
+## 📖 Knowledges of
+
+![Network](https://img.shields.io/badge/Network-111?style=for-the-badge&logo=&logoColor=white)
+![English](https://img.shields.io/badge/English-111?style=for-the-badge&logo=&logoColor=white)
+
+## 🌐 Reach me out at
+<a href = "mailto:analuiza319@hotmail.com"><img src="https://img.shields.io/badge/Outlook-111?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/ana-luiza-ferreira-b6404322a"><img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
