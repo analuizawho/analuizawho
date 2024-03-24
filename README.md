@@ -12,6 +12,7 @@
 ## 👩‍💻 Skills
 ![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-111?style=for-the-badge&logo=Spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=white)
 
