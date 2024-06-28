@@ -7,14 +7,16 @@
  - 📍 From Belo Horizonte - MG, Brazil
  - 🎓 Studying System Analisys and Development
  - 📚 Learning about SpringBoot
- - 🕵️‍♀️ Looking for jobs of Back-End Development
+ - 🕵️‍♀️ Looking for jobs of Back-End Development with Java
 
 ## 👩‍💻 Skills
 ![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-111?style=for-the-badge&logo=Spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-111?style=for-the-badge&logo=mysql&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-111?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📖 Knowledges of
 
@@ -23,4 +25,4 @@
 
 ## 🌐 Reach me out at
 <a href = "mailto:analuiza319@hotmail.com"><img src="https://img.shields.io/badge/Outlook-111?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href = "https://www.linkedin.com/in/ana-luiza-ferreira-b6404322a"><img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/analuiza-sf"><img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
