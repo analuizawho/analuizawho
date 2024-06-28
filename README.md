@@ -5,7 +5,7 @@
 ## 🌟 About Me <img align="right" src="https://github.com/analuizawho/analuizawho/blob/main/assets/computer.gif"/>
  - 🤓 I'm 20 years old 
  - 📍 From Belo Horizonte - MG, Brazil
- - 🎓 Studying Analysis and System Development
+ - 🎓 Studying System Analisys and Development
  - 📚 Learning about SpringBoot
  - 🕵️‍♀️ Looking for jobs of Back-End Development
 
