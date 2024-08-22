@@ -3,11 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=edc92d&size=35&center=true&vCenter=true&width=1000&lines=Hi!!+I'm+Ana+Luiza;Make+yourself+at+home!+🌞+:%29)](https://git.io/typing-svg)
 
 ## 🌟 About Me <img align="right" src="https://github.com/analuizawho/analuizawho/blob/main/assets/computer.gif"/>
- - 🤓 I'm 20 years old 
+ - 🤓 I'm 21 years old 
  - 📍 From Belo Horizonte - MG, Brazil
- - 🎓 Studying System Analisys and Development
+ - 🎓 Degree in System Analysis and Development
  - 📚 Learning about SpringBoot
- - 🕵️‍♀️ Looking for jobs of Back-End Development with Java
+ - 🕵️‍♀️ Looking for jobs of System Analyis and Back-End Development with Java
 
 ## 👩‍💻 Skills
 ![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=OpenJDK&logoColor=white)
