@@ -6,8 +6,6 @@
  - 🤓 I'm 23 years old 
  - 📍 From Belo Horizonte - MG, Brazil
  - 🎓 Degree in System Analysis and Development
- - 📚 Learning about SpringBoot
- - 🕵️‍♀️ Looking for jobs of System Analyis and Back-End Development with Java
 
 ## 👩‍💻 Skills
 ![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=OpenJDK&logoColor=white)
