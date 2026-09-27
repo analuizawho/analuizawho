@@ -24,5 +24,5 @@
 ![English](https://img.shields.io/badge/English-111?style=for-the-badge&logo=&logoColor=white)
 
 ## 🌐 Reach me out at
-<a href = "mailto:analuiza319@hotmail.com"><img src="https://img.shields.io/badge/Outlook-111?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href = "mailto:analuiza14.ferreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/analuiza-sf"><img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
